@@ -11,9 +11,13 @@ A repo of Kentucky geographic files in various formats for quick consumption
 
 
 
+
 _*Simplification: These files lose alot of resolution when zoomed in and should not be used when geographical accuracy of boundaries are important._
 
 
 
+
+
 ## Data
-*census-tracts -  _(source: US Census Bureau, 2016)_
+* census-tracts -  _(source: US Census Bureau, 2016)_
+* counties - _(source: KY Geological Survey, University of Kentucky)
